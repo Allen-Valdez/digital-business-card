@@ -1,0 +1,98 @@
+.card-image {
+	width: 317px;
+	height: 317px;
+	border-radius: 10px 10px 0 0;
+	object-fit: cover;
+	margin: 6rem auto 0 auto;
+	display: block;
+}
+
+.main {
+	height: 399px;
+	width: 317px;
+	background-color: #1a1b21;
+	font-family: Inter, sans-serif;
+	margin: 0 auto;
+}
+
+header > h1 {
+	margin: 0;
+	padding: 20px 0 10px 0;
+	font-size: 25px;
+}
+
+.header-website {
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+
+.header-profession {
+	color: #f3bf99;
+}
+
+.header-buttons {
+	display: flex;
+	justify-content: center;
+}
+
+.header-link {
+	text-decoration: none;
+	border: none;
+	border-radius: 8px;
+	padding: 5px 20px;
+	font-size: 14px;
+	margin: 0 5px 0 5px;
+}
+
+.header-icons {
+	padding-right: 5px;
+	font-size: 14px;
+}
+
+.email-link {
+	background-color: white;
+	color: black;
+}
+
+.linkedin-link {
+	background-color: #5093e2;
+	color: white;
+}
+
+.section-header {
+	font-size: 16px;
+	display: flex;
+	justify-content: start;
+	padding-left: 10px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+
+.section-text {
+	font-size: 11px;
+	line-height: 1.5;
+	padding: 0 10px;
+	text-align: left;
+}
+
+footer {
+	width: 317px;
+	height: 64px;
+	margin: 0 auto;
+	background-color: #161619;
+	border-radius: 0 0 10px 10px;
+}
+
+.footer-links {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+	margin: 0;
+	list-style: none;
+	padding: 15px 0 0 0;
+}
+
+.footer-icon {
+	width: 30px;
+	height: 30px;
+}
